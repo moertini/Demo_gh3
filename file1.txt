@@ -1,3 +1,5 @@
 Ini ditambah di lokal
 baris 2 di lokal, edit di remote
 tambah di remote
+tambah baris 4 di lokal
+
