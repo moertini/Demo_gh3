@@ -1,1 +1,2 @@
 baris ke 1 di lokal
+tambah baris di remote
