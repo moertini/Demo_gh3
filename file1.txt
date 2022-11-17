@@ -1,2 +1,3 @@
 Ini ditambah di lokal
-baris 2 di lokal
+baris 2 di lokal, edit di remote
+tambah di remote
